@@ -1,5 +1,4 @@
 # libnetevent
-[TOC]
 ##简介
 #####采用同步I/O（Epoll）的ET模式封装实现
 ##接口
@@ -11,4 +10,5 @@ int push_msg(int task_id);
 #####2016/08/26/rename libnetevent -> libnet
 #####2016/08/26/提交版本为多线程模式
 ##相关链接
-[我的博客](http://blog.csdn.net/caiyaodeng"悬停显示")
+[Epoll源码探秘（epoll_create)](http://blog.csdn.net/caiyaodeng/article/details/52297691)
+[Epoll源码探秘（epoll_ctl)](http://blog.csdn.net/caiyaodeng/article/details/52312892)
