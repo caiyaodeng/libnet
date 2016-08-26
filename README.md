@@ -10,3 +10,5 @@ int push_msg(int task_id);
 ##更新日志
 #####2016/08/26/rename libnetevent -> libnet
 #####2016/08/26/提交版本为多线程模式
+##相关链接
+[我的博客](http://blog.csdn.net/caiyaodeng"悬停显示")
